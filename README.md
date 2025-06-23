@@ -1,4 +1,4 @@
-##⚡Full-stack developer specializing in React, Next.js, and Node.js.
+## ⚡Full-stack developer specializing in React, Next.js, and Node.js.
 
 - 💬 Ask me about React, NestJS, GraphQL
 
