@@ -14,7 +14,6 @@ Full-stack developer specializing in React, Next.js, and Node.js.
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 
-## 📈 GitHub Stats
 
-![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ek4m&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinsalmanov&layout=compact&theme=radical)
 
