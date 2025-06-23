@@ -16,5 +16,5 @@ Full-stack developer specializing in React, Next.js, and Node.js.
 
 ## 📈 GitHub Stats
 
-![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvinsalmanov&show_icons=true&theme=radical)
+![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ek4m&show_icons=true&theme=radical)
 
