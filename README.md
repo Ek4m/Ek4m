@@ -15,5 +15,5 @@ Full-stack developer specializing in React, Next.js, and Node.js.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinsalmanov&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ek4m&layout=compact&theme=radical)
 
